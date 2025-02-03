@@ -1,6 +1,6 @@
-# 📊 Google Play Store EDA
+# Google Play Store EDA
 
-## 📌 Project Overview
+## Project Overview
 This project conducts an in-depth **Exploratory Data Analysis (EDA)** of the Google Play Store dataset, uncovering key insights into app trends, downloads, ratings, pricing models, and category-wise distributions. The dataset contains over **2.3 million** records and **24 features**, making it a large-scale analysis of mobile applications.
 
 ## 📂 Folder Structure
