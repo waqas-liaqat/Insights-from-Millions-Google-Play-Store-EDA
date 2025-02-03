@@ -81,7 +81,7 @@ The project is structured as follows:
 ## 🔥 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/waqas-liaqat/waqas-liaqat-Insights-from-Millions-Google-Play-Store-EDA.git
+   git clone https://github.com/waqas-liaqat/waqas-liaqat-Insights-from-Millions-app-Google-Play-Store-EDA.git
    ```
 2. Navigate to the project directory:
    ```bash
